@@ -2,4 +2,7 @@ lion
 tiger
 cat
 dog
+fox
+elephant
+giraffe
 
